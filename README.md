@@ -40,7 +40,7 @@ Unity Asset Store Package Promotion Guidelines.
 - [ ] Promote in Related Communities
   - [ ] [Unity Forum](https://forum.unity3d.com/)
   - [ ] Subreddits: [Unity3D](https://www.reddit.com/r/Unity3D/), [Unity2D](https://www.reddit.com/r/Unity2D/), [UnityAssets](https://www.reddit.com/r/UnityAssets/), [GameAssets](https://www.reddit.com/r/gameassets/), [GameDev](https://www.reddit.com/r/gamedev/)
-  - [ ] [Unity Unofficial Slack](https://forum.unity.com/threads/slack-unity-dev-group.313672/)
+  - [ ] [Unity Unofficial Slack](https://forum.unity.com/threads/slack-unity-dev-group.313672/)
   - [ ] [Unity Unofficial Discord](https://forum.unity.com/threads/discord-unity-developer-hub.417893/)
   - [ ] [Discord Game Dev League](https://discordapp.com/invite/0TYNJfCU4DcT65E3)
 - [ ] [Join Unity Asset Store Promotions](https://docs.unity3d.com/Manual/AssetStorePromotion.html)
